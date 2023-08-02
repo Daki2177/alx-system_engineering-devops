@@ -1,1 +1,1 @@
-List the contents
+Explains what each script does
